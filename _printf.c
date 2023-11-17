@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * printIdentifiers - prints special characters
- * @next: character after the %
+ * printIdentifiers - The function prints special characters
+ * @next: The characters after the %
  * @arg: argument for the indentifier
  * Return: the number of characters printed
  * (excluding the null byte used to end output to strings)
